@@ -1,0 +1,14 @@
+{
+  "music":{
+    "location" : "/home/milad/test/medify_test/music/"
+  },
+  "log_directory": "/home/milad/test/medify_test/log/",
+  "version": 0.1,
+  "ACRCloud": {
+    "region": "eu-west-1",
+    "host": "identify-eu-west-1.acrcloud.com",
+    "access_key": "7b76f9ddc02872121327d6b74f82042c",
+    "access_secret": "C3sifASMGhuzBal3hmFMTdufDg1T6jF5B4wGH7ye",
+    "timeout": 10
+  }
+}
